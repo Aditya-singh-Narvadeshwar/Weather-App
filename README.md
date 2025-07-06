@@ -16,9 +16,6 @@ This is a simple, responsive weather application built with HTML, CSS, JavaScrip
 - Smooth animations using Animate.css
 - Default weather shown for Noida on page load
 
-## 🖼️ Preview
-
-![Weather App Screenshot](screenshot.png) <!-- optional: replace or remove if you do not have a screenshot -->
 
 ## 🛠️ Tech Stack
 
